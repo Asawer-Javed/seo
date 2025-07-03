@@ -1,0 +1,3161 @@
+{
+  "abc": {
+    "keyword": "abc",
+    "search_volume": 45000,
+    "competition": "Medium",
+    "competition_index": 72,
+    "cpc": 9.4,
+    "trend": "Stable",
+    "difficulty": 66,
+    "potential_traffic": 9000,
+    "parent_topic": "",
+    "category": "technology",
+    "opportunity_score": 79,
+    "tail_type": "Short-tail",
+    "serp_analysis": {
+      "competitors": 0,
+      "title_match_count": 0,
+      "top_domains": [],
+      "trust_score": 0,
+      "meta_data": {
+        "meta_description": [],
+        "h1": [],
+        "h2": [],
+        "h3": [],
+        "h4": []
+      }
+    }
+  },
+  "abcd": {
+    "keyword": "abcd",
+    "search_volume": 45000,
+    "competition": "Medium",
+    "competition_index": 68,
+    "cpc": 9.4,
+    "trend": "Stable",
+    "difficulty": 46,
+    "potential_traffic": 9000,
+    "parent_topic": "",
+    "category": "technology",
+    "opportunity_score": 99,
+    "tail_type": "Short-tail",
+    "serp_analysis": {
+      "competitors": 0,
+      "title_match_count": 0,
+      "top_domains": [],
+      "trust_score": 0,
+      "meta_data": {
+        "meta_description": [],
+        "h1": [],
+        "h2": [],
+        "h3": [],
+        "h4": []
+      }
+    }
+  },
+  "abcdefghijklmnopqrstuvwxyz": {
+    "keyword": "abcdefghijklmnopqrstuvwxyz",
+    "search_volume": 45000,
+    "competition": "Low",
+    "competition_index": 82,
+    "cpc": 4.7,
+    "trend": "Stable",
+    "difficulty": 69,
+    "potential_traffic": 9000,
+    "parent_topic": "",
+    "category": "technology",
+    "opportunity_score": 76,
+    "tail_type": "Short-tail",
+    "serp_analysis": {
+      "competitors": 0,
+      "title_match_count": 0,
+      "top_domains": [],
+      "trust_score": 0,
+      "meta_data": {
+        "meta_description": [],
+        "h1": [],
+        "h2": [],
+        "h3": [],
+        "h4": []
+      }
+    }
+  },
+  "abc song": {
+    "keyword": "abc song",
+    "search_volume": 45000,
+    "competition": "Low",
+    "competition_index": 59,
+    "cpc": 6.5,
+    "trend": "Stable",
+    "difficulty": 57,
+    "potential_traffic": 9000,
+    "parent_topic": "abc",
+    "category": "technology",
+    "opportunity_score": 88,
+    "tail_type": "Mid-tail",
+    "serp_analysis": {
+      "competitors": 0,
+      "title_match_count": 0,
+      "top_domains": [],
+      "trust_score": 0,
+      "meta_data": {
+        "meta_description": [],
+        "h1": [],
+        "h2": [],
+        "h3": [],
+        "h4": []
+      }
+    }
+  },
+  "abc juice": {
+    "keyword": "abc juice",
+    "search_volume": 45000,
+    "competition": "Medium",
+    "competition_index": 75,
+    "cpc": 5.4,
+    "trend": "Stable",
+    "difficulty": 56,
+    "potential_traffic": 9000,
+    "parent_topic": "abc",
+    "category": "technology",
+    "opportunity_score": 89,
+    "tail_type": "Mid-tail",
+    "serp_analysis": {
+      "competitors": 0,
+      "title_match_count": 0,
+      "top_domains": [],
+      "trust_score": 0,
+      "meta_data": {
+        "meta_description": [],
+        "h1": [
+          "Accessibility Links",
+          "Filters and Topics",
+          "Search Results"
+        ],
+        "h2": [
+          "Complementary Results"
+        ],
+        "h3": [
+          "ABC juice recipe, Apple Beetroot Carrot juice",
+          "ABC Juice in a Blender - Apple Beet Carrot Juice Recipe",
+          "ABC Juice in a Blender - Apple Beet Carrot Juice Recipe"
+        ],
+        "h4": []
+      }
+    }
+  },
+  "abc news": {
+    "keyword": "abc news",
+    "search_volume": 45000,
+    "competition": "Low",
+    "competition_index": 60,
+    "cpc": 7.1,
+    "trend": "Stable",
+    "difficulty": 63,
+    "potential_traffic": 9000,
+    "parent_topic": "abc",
+    "category": "technology",
+    "opportunity_score": 82,
+    "tail_type": "Mid-tail",
+    "serp_analysis": {
+      "competitors": 0,
+      "title_match_count": 0,
+      "top_domains": [],
+      "trust_score": 0,
+      "meta_data": {
+        "meta_description": [],
+        "h1": [],
+        "h2": [],
+        "h3": [],
+        "h4": []
+      }
+    }
+  },
+  "abcya": {
+    "keyword": "abcya",
+    "search_volume": 45000,
+    "competition": "Medium",
+    "competition_index": 69,
+    "cpc": 1.2,
+    "trend": "Stable",
+    "difficulty": 44,
+    "potential_traffic": 9000,
+    "parent_topic": "",
+    "category": "technology",
+    "opportunity_score": 101,
+    "tail_type": "Short-tail",
+    "serp_analysis": {
+      "competitors": 0,
+      "title_match_count": 0,
+      "top_domains": [],
+      "trust_score": 0,
+      "meta_data": {
+        "meta_description": [],
+        "h1": [],
+        "h2": [],
+        "h3": [],
+        "h4": []
+      }
+    }
+  },
+  "abcd 2": {
+    "keyword": "abcd 2",
+    "search_volume": 45000,
+    "competition": "High",
+    "competition_index": 60,
+    "cpc": 7.6,
+    "trend": "Stable",
+    "difficulty": 68,
+    "potential_traffic": 9000,
+    "parent_topic": "abcd",
+    "category": "technology",
+    "opportunity_score": 77,
+    "tail_type": "Mid-tail",
+    "serp_analysis": {
+      "competitors": 0,
+      "title_match_count": 0,
+      "top_domains": [],
+      "trust_score": 0,
+      "meta_data": {
+        "meta_description": [],
+        "h1": [],
+        "h2": [],
+        "h3": [],
+        "h4": []
+      }
+    }
+  },
+  "abc alphabet": {
+    "keyword": "abc alphabet",
+    "search_volume": 45000,
+    "competition": "Medium",
+    "competition_index": 77,
+    "cpc": 5.9,
+    "trend": "Stable",
+    "difficulty": 61,
+    "potential_traffic": 9000,
+    "parent_topic": "abc",
+    "category": "technology",
+    "opportunity_score": 84,
+    "tail_type": "Mid-tail",
+    "serp_analysis": {
+      "competitors": 0,
+      "title_match_count": 0,
+      "top_domains": [],
+      "trust_score": 0,
+      "meta_data": {
+        "meta_description": [],
+        "h1": [],
+        "h2": [],
+        "h3": [],
+        "h4": []
+      }
+    }
+  },
+  "abc cartoon": {
+    "keyword": "abc cartoon",
+    "search_volume": 45000,
+    "competition": "Medium",
+    "competition_index": 77,
+    "cpc": 8.4,
+    "trend": "Stable",
+    "difficulty": 46,
+    "potential_traffic": 9000,
+    "parent_topic": "abc",
+    "category": "technology",
+    "opportunity_score": 99,
+    "tail_type": "Mid-tail",
+    "serp_analysis": {
+      "competitors": 0,
+      "title_match_count": 0,
+      "top_domains": [],
+      "trust_score": 0,
+      "meta_data": {
+        "meta_description": [],
+        "h1": [],
+        "h2": [],
+        "h3": [],
+        "h4": []
+      }
+    }
+  },
+  "freelancing": {
+    "keyword": "freelancing",
+    "search_volume": 45000,
+    "competition": "Medium",
+    "competition_index": 81,
+    "cpc": 5.0,
+    "trend": "Stable",
+    "difficulty": 52,
+    "potential_traffic": 9000,
+    "parent_topic": "",
+    "category": "technology",
+    "opportunity_score": 93,
+    "tail_type": "Short-tail",
+    "serp_analysis": {
+      "competitors": 0,
+      "title_match_count": 0,
+      "top_domains": [],
+      "trust_score": 0,
+      "meta_data": {
+        "meta_description": [],
+        "h1": [],
+        "h2": [],
+        "h3": [],
+        "h4": []
+      }
+    }
+  },
+  "freelancing websites": {
+    "keyword": "freelancing websites",
+    "search_volume": 45000,
+    "competition": "Medium",
+    "competition_index": 77,
+    "cpc": 5.2,
+    "trend": "Stable",
+    "difficulty": 54,
+    "potential_traffic": 9000,
+    "parent_topic": "freelancing",
+    "category": "technology",
+    "opportunity_score": 91,
+    "tail_type": "Mid-tail",
+    "serp_analysis": {
+      "competitors": 0,
+      "title_match_count": 0,
+      "top_domains": [],
+      "trust_score": 0,
+      "meta_data": {
+        "meta_description": [],
+        "h1": [],
+        "h2": [],
+        "h3": [],
+        "h4": []
+      }
+    }
+  },
+  "freelancing course": {
+    "keyword": "freelancing course",
+    "search_volume": 45000,
+    "competition": "High",
+    "competition_index": 64,
+    "cpc": 3.9,
+    "trend": "Stable",
+    "difficulty": 51,
+    "potential_traffic": 9000,
+    "parent_topic": "freelancing",
+    "category": "technology",
+    "opportunity_score": 94,
+    "tail_type": "Mid-tail",
+    "serp_analysis": {
+      "competitors": 0,
+      "title_match_count": 0,
+      "top_domains": [],
+      "trust_score": 0,
+      "meta_data": {
+        "meta_description": [],
+        "h1": [],
+        "h2": [],
+        "h3": [],
+        "h4": []
+      }
+    }
+  },
+  "freelancing meaning in urdu": {
+    "keyword": "freelancing meaning in urdu",
+    "search_volume": 15599,
+    "competition": "Medium",
+    "competition_index": 52,
+    "cpc": 4.4,
+    "trend": "Stable",
+    "difficulty": 31,
+    "potential_traffic": 3119,
+    "parent_topic": "freelancing",
+    "category": "technology",
+    "opportunity_score": 84,
+    "tail_type": "Long-tail",
+    "serp_analysis": {
+      "competitors": 0,
+      "title_match_count": 0,
+      "top_domains": [],
+      "trust_score": 0,
+      "meta_data": {
+        "meta_description": [],
+        "h1": [],
+        "h2": [],
+        "h3": [],
+        "h4": []
+      }
+    }
+  },
+  "freelancing platforms": {
+    "keyword": "freelancing platforms",
+    "search_volume": 45000,
+    "competition": "Medium",
+    "competition_index": 66,
+    "cpc": 6.6,
+    "trend": "Stable",
+    "difficulty": 48,
+    "potential_traffic": 9000,
+    "parent_topic": "freelancing",
+    "category": "technology",
+    "opportunity_score": 97,
+    "tail_type": "Mid-tail",
+    "serp_analysis": {
+      "competitors": 0,
+      "title_match_count": 0,
+      "top_domains": [],
+      "trust_score": 0,
+      "meta_data": {
+        "meta_description": [],
+        "h1": [],
+        "h2": [],
+        "h3": [],
+        "h4": []
+      }
+    }
+  },
+  "freelancing meaning": {
+    "keyword": "freelancing meaning",
+    "search_volume": 45000,
+    "competition": "High",
+    "competition_index": 70,
+    "cpc": 1.7,
+    "trend": "Stable",
+    "difficulty": 69,
+    "potential_traffic": 9000,
+    "parent_topic": "freelancing",
+    "category": "technology",
+    "opportunity_score": 76,
+    "tail_type": "Mid-tail",
+    "serp_analysis": {
+      "competitors": 0,
+      "title_match_count": 0,
+      "top_domains": [],
+      "trust_score": 0,
+      "meta_data": {
+        "meta_description": [],
+        "h1": [],
+        "h2": [],
+        "h3": [],
+        "h4": []
+      }
+    }
+  },
+  "freelancing jobs": {
+    "keyword": "freelancing jobs",
+    "search_volume": 45000,
+    "competition": "Medium",
+    "competition_index": 55,
+    "cpc": 1.2,
+    "trend": "Stable",
+    "difficulty": 64,
+    "potential_traffic": 9000,
+    "parent_topic": "freelancing",
+    "category": "technology",
+    "opportunity_score": 81,
+    "tail_type": "Mid-tail",
+    "serp_analysis": {
+      "competitors": 0,
+      "title_match_count": 0,
+      "top_domains": [],
+      "trust_score": 0,
+      "meta_data": {
+        "meta_description": [],
+        "h1": [],
+        "h2": [],
+        "h3": [],
+        "h4": []
+      }
+    }
+  },
+  "freelancing course in urdu": {
+    "keyword": "freelancing course in urdu",
+    "search_volume": 15599,
+    "competition": "Low",
+    "competition_index": 27,
+    "cpc": 6.6,
+    "trend": "Stable",
+    "difficulty": 43,
+    "potential_traffic": 3119,
+    "parent_topic": "freelancing",
+    "category": "technology",
+    "opportunity_score": 72,
+    "tail_type": "Long-tail",
+    "serp_analysis": {
+      "competitors": 0,
+      "title_match_count": 0,
+      "top_domains": [],
+      "trust_score": 0,
+      "meta_data": {
+        "meta_description": [],
+        "h1": [],
+        "h2": [],
+        "h3": [],
+        "h4": []
+      }
+    }
+  },
+  "freelancing in pakistan": {
+    "keyword": "freelancing in pakistan",
+    "search_volume": 22950,
+    "competition": "Low",
+    "competition_index": 37,
+    "cpc": 8.8,
+    "trend": "Stable",
+    "difficulty": 39,
+    "potential_traffic": 4590,
+    "parent_topic": "freelancing",
+    "category": "technology",
+    "opportunity_score": 83,
+    "tail_type": "Mid-tail",
+    "serp_analysis": {
+      "competitors": 0,
+      "title_match_count": 0,
+      "top_domains": [],
+      "trust_score": 0,
+      "meta_data": {
+        "meta_description": [],
+        "h1": [],
+        "h2": [],
+        "h3": [],
+        "h4": []
+      }
+    }
+  },
+  "freelancing websites in pakistan": {
+    "keyword": "freelancing websites in pakistan",
+    "search_volume": 15599,
+    "competition": "Medium",
+    "competition_index": 55,
+    "cpc": 9.0,
+    "trend": "Stable",
+    "difficulty": 37,
+    "potential_traffic": 3119,
+    "parent_topic": "freelancing",
+    "category": "technology",
+    "opportunity_score": 78,
+    "tail_type": "Long-tail",
+    "serp_analysis": {
+      "competitors": 0,
+      "title_match_count": 0,
+      "top_domains": [],
+      "trust_score": 0,
+      "meta_data": {
+        "meta_description": [],
+        "h1": [],
+        "h2": [],
+        "h3": [],
+        "h4": []
+      }
+    }
+  },
+  "asawer name meaning": {
+    "keyword": "asawer name meaning",
+    "search_volume": 22950,
+    "competition": "Medium",
+    "competition_index": 34,
+    "cpc": 5.9,
+    "trend": "Stable",
+    "difficulty": 60,
+    "potential_traffic": 4590,
+    "parent_topic": "asawer",
+    "category": "technology",
+    "opportunity_score": 62,
+    "tail_type": "Mid-tail",
+    "serp_analysis": {
+      "competitors": 0,
+      "title_match_count": 0,
+      "top_domains": [],
+      "trust_score": 0,
+      "meta_data": {
+        "meta_description": [],
+        "h1": [],
+        "h2": [],
+        "h3": [],
+        "h4": []
+      }
+    }
+  },
+  "asawera": {
+    "keyword": "asawera",
+    "search_volume": 45000,
+    "competition": "Medium",
+    "competition_index": 79,
+    "cpc": 4.0,
+    "trend": "Stable",
+    "difficulty": 62,
+    "potential_traffic": 9000,
+    "parent_topic": "",
+    "category": "technology",
+    "opportunity_score": 83,
+    "tail_type": "Short-tail",
+    "serp_analysis": {
+      "competitors": 0,
+      "title_match_count": 0,
+      "top_domains": [],
+      "trust_score": 0,
+      "meta_data": {
+        "meta_description": [],
+        "h1": [
+          "Accessibility Links",
+          "Filters and Topics",
+          "Search Results"
+        ],
+        "h2": [
+          "Complementary Results",
+          "See results about"
+        ],
+        "h3": [
+          "AS\u0100WERA",
+          "What Does The Name Asawera Mean?",
+          "Essaouira"
+        ],
+        "h4": []
+      }
+    }
+  },
+  "sawera name meaning in urdu": {
+    "keyword": "sawera name meaning in urdu",
+    "search_volume": 11925,
+    "competition": "Low",
+    "competition_index": 49,
+    "cpc": 8.6,
+    "trend": "Stable",
+    "difficulty": 31,
+    "potential_traffic": 2385,
+    "parent_topic": "sawera",
+    "category": "technology",
+    "opportunity_score": 80,
+    "tail_type": "Long-tail",
+    "serp_analysis": {
+      "competitors": 0,
+      "title_match_count": 0,
+      "top_domains": [],
+      "trust_score": 0,
+      "meta_data": {
+        "meta_description": [],
+        "h1": [],
+        "h2": [],
+        "h3": [],
+        "h4": []
+      }
+    }
+  },
+  "savera nadeem": {
+    "keyword": "savera nadeem",
+    "search_volume": 45000,
+    "competition": "Low",
+    "competition_index": 59,
+    "cpc": 9.2,
+    "trend": "Stable",
+    "difficulty": 44,
+    "potential_traffic": 9000,
+    "parent_topic": "savera",
+    "category": "technology",
+    "opportunity_score": 101,
+    "tail_type": "Mid-tail",
+    "serp_analysis": {
+      "competitors": 0,
+      "title_match_count": 0,
+      "top_domains": [],
+      "trust_score": 0,
+      "meta_data": {
+        "meta_description": [],
+        "h1": [],
+        "h2": [],
+        "h3": [],
+        "h4": []
+      }
+    }
+  },
+  "sawera pasha": {
+    "keyword": "sawera pasha",
+    "search_volume": 45000,
+    "competition": "Low",
+    "competition_index": 64,
+    "cpc": 0.0,
+    "trend": "Stable",
+    "difficulty": 42,
+    "potential_traffic": 9000,
+    "parent_topic": "sawera",
+    "category": "technology",
+    "opportunity_score": 103,
+    "tail_type": "Mid-tail",
+    "serp_analysis": {
+      "competitors": 0,
+      "title_match_count": 0,
+      "top_domains": [],
+      "trust_score": 0,
+      "meta_data": {
+        "meta_description": [],
+        "h1": [],
+        "h2": [],
+        "h3": [],
+        "h4": []
+      }
+    }
+  },
+  "sawera": {
+    "keyword": "sawera",
+    "search_volume": 45000,
+    "competition": "Medium",
+    "competition_index": 72,
+    "cpc": 4.3,
+    "trend": "Stable",
+    "difficulty": 55,
+    "potential_traffic": 9000,
+    "parent_topic": "",
+    "category": "technology",
+    "opportunity_score": 90,
+    "tail_type": "Short-tail",
+    "serp_analysis": {
+      "competitors": 0,
+      "title_match_count": 0,
+      "top_domains": [],
+      "trust_score": 0,
+      "meta_data": {
+        "meta_description": [],
+        "h1": [],
+        "h2": [],
+        "h3": [],
+        "h4": []
+      }
+    }
+  },
+  "sawera store": {
+    "keyword": "sawera store",
+    "search_volume": 45000,
+    "competition": "Low",
+    "competition_index": 85,
+    "cpc": 3.2,
+    "trend": "Stable",
+    "difficulty": 44,
+    "potential_traffic": 9000,
+    "parent_topic": "sawera",
+    "category": "technology",
+    "opportunity_score": 101,
+    "tail_type": "Mid-tail",
+    "serp_analysis": {
+      "competitors": 0,
+      "title_match_count": 0,
+      "top_domains": [],
+      "trust_score": 0,
+      "meta_data": {
+        "meta_description": [],
+        "h1": [],
+        "h2": [],
+        "h3": [],
+        "h4": []
+      }
+    }
+  },
+  "sawera nadeem husband": {
+    "keyword": "sawera nadeem husband",
+    "search_volume": 22950,
+    "competition": "High",
+    "competition_index": 59,
+    "cpc": 6.6,
+    "trend": "Stable",
+    "difficulty": 57,
+    "potential_traffic": 4590,
+    "parent_topic": "sawera",
+    "category": "technology",
+    "opportunity_score": 65,
+    "tail_type": "Mid-tail",
+    "serp_analysis": {
+      "competitors": 0,
+      "title_match_count": 0,
+      "top_domains": [],
+      "trust_score": 0,
+      "meta_data": {
+        "meta_description": [],
+        "h1": [],
+        "h2": [],
+        "h3": [],
+        "h4": []
+      }
+    }
+  },
+  "sawera halwa puri": {
+    "keyword": "sawera halwa puri",
+    "search_volume": 22950,
+    "competition": "Low",
+    "competition_index": 51,
+    "cpc": 8.0,
+    "trend": "Stable",
+    "difficulty": 31,
+    "potential_traffic": 4590,
+    "parent_topic": "sawera",
+    "category": "technology",
+    "opportunity_score": 91,
+    "tail_type": "Mid-tail",
+    "serp_analysis": {
+      "competitors": 0,
+      "title_match_count": 0,
+      "top_domains": [],
+      "trust_score": 0,
+      "meta_data": {
+        "meta_description": [],
+        "h1": [],
+        "h2": [],
+        "h3": [],
+        "h4": []
+      }
+    }
+  },
+  "sawera nadeem age": {
+    "keyword": "sawera nadeem age",
+    "search_volume": 22950,
+    "competition": "Low",
+    "competition_index": 50,
+    "cpc": 2.6,
+    "trend": "Stable",
+    "difficulty": 37,
+    "potential_traffic": 4590,
+    "parent_topic": "sawera",
+    "category": "technology",
+    "opportunity_score": 85,
+    "tail_type": "Mid-tail",
+    "serp_analysis": {
+      "competitors": 0,
+      "title_match_count": 0,
+      "top_domains": [],
+      "trust_score": 0,
+      "meta_data": {
+        "meta_description": [],
+        "h1": [
+          "Accessibility Links",
+          "Filters and Topics",
+          "Search Results"
+        ],
+        "h2": [
+          "Complementary Results"
+        ],
+        "h3": [
+          "Savera Nadeem",
+          "Description",
+          "Savera Nadeem (@saveranadeem)"
+        ],
+        "h4": []
+      }
+    }
+  },
+  "attique name meaning in urdu": {
+    "keyword": "attique name meaning in urdu",
+    "search_volume": 11925,
+    "competition": "High",
+    "competition_index": 38,
+    "cpc": 0.8,
+    "trend": "Stable",
+    "difficulty": 33,
+    "potential_traffic": 2385,
+    "parent_topic": "attique",
+    "category": "technology",
+    "opportunity_score": 78,
+    "tail_type": "Long-tail",
+    "serp_analysis": {
+      "competitors": 0,
+      "title_match_count": 0,
+      "top_domains": [],
+      "trust_score": 0,
+      "meta_data": {
+        "meta_description": [],
+        "h1": [],
+        "h2": [],
+        "h3": [],
+        "h4": []
+      }
+    }
+  },
+  "attique ur rehman": {
+    "keyword": "attique ur rehman",
+    "search_volume": 22950,
+    "competition": "Medium",
+    "competition_index": 56,
+    "cpc": 9.5,
+    "trend": "Stable",
+    "difficulty": 46,
+    "potential_traffic": 4590,
+    "parent_topic": "attique",
+    "category": "technology",
+    "opportunity_score": 76,
+    "tail_type": "Mid-tail",
+    "serp_analysis": {
+      "competitors": 0,
+      "title_match_count": 0,
+      "top_domains": [],
+      "trust_score": 0,
+      "meta_data": {
+        "meta_description": [],
+        "h1": [],
+        "h2": [],
+        "h3": [],
+        "h4": []
+      }
+    }
+  },
+  "attique": {
+    "keyword": "attique",
+    "search_volume": 45000,
+    "competition": "Medium",
+    "competition_index": 61,
+    "cpc": 6.5,
+    "trend": "Stable",
+    "difficulty": 57,
+    "potential_traffic": 9000,
+    "parent_topic": "",
+    "category": "technology",
+    "opportunity_score": 88,
+    "tail_type": "Short-tail",
+    "serp_analysis": {
+      "competitors": 0,
+      "title_match_count": 0,
+      "top_domains": [],
+      "trust_score": 0,
+      "meta_data": {
+        "meta_description": [],
+        "h1": [],
+        "h2": [],
+        "h3": [],
+        "h4": []
+      }
+    }
+  },
+  "attiq ur rehman": {
+    "keyword": "attiq ur rehman",
+    "search_volume": 22950,
+    "competition": "Medium",
+    "competition_index": 60,
+    "cpc": 7.7,
+    "trend": "Stable",
+    "difficulty": 38,
+    "potential_traffic": 4590,
+    "parent_topic": "attiq",
+    "category": "technology",
+    "opportunity_score": 84,
+    "tail_type": "Mid-tail",
+    "serp_analysis": {
+      "competitors": 0,
+      "title_match_count": 0,
+      "top_domains": [],
+      "trust_score": 0,
+      "meta_data": {
+        "meta_description": [],
+        "h1": [],
+        "h2": [],
+        "h3": [],
+        "h4": []
+      }
+    }
+  },
+  "attiqa in urdu": {
+    "keyword": "attiqa in urdu",
+    "search_volume": 22950,
+    "competition": "Low",
+    "competition_index": 47,
+    "cpc": 7.1,
+    "trend": "Stable",
+    "difficulty": 52,
+    "potential_traffic": 4590,
+    "parent_topic": "attiqa",
+    "category": "technology",
+    "opportunity_score": 70,
+    "tail_type": "Mid-tail",
+    "serp_analysis": {
+      "competitors": 0,
+      "title_match_count": 0,
+      "top_domains": [],
+      "trust_score": 0,
+      "meta_data": {
+        "meta_description": [],
+        "h1": [],
+        "h2": [],
+        "h3": [],
+        "h4": []
+      }
+    }
+  },
+  "attiq": {
+    "keyword": "attiq",
+    "search_volume": 45000,
+    "competition": "Low",
+    "competition_index": 75,
+    "cpc": 4.7,
+    "trend": "Stable",
+    "difficulty": 49,
+    "potential_traffic": 9000,
+    "parent_topic": "",
+    "category": "technology",
+    "opportunity_score": 96,
+    "tail_type": "Short-tail",
+    "serp_analysis": {
+      "competitors": 0,
+      "title_match_count": 0,
+      "top_domains": [],
+      "trust_score": 0,
+      "meta_data": {
+        "meta_description": [],
+        "h1": [],
+        "h2": [],
+        "h3": [],
+        "h4": []
+      }
+    }
+  },
+  "attiq meaning in urdu": {
+    "keyword": "attiq meaning in urdu",
+    "search_volume": 15599,
+    "competition": "Medium",
+    "competition_index": 35,
+    "cpc": 4.1,
+    "trend": "Stable",
+    "difficulty": 28,
+    "potential_traffic": 3119,
+    "parent_topic": "attiq",
+    "category": "technology",
+    "opportunity_score": 87,
+    "tail_type": "Long-tail",
+    "serp_analysis": {
+      "competitors": 0,
+      "title_match_count": 0,
+      "top_domains": [],
+      "trust_score": 0,
+      "meta_data": {
+        "meta_description": [],
+        "h1": [],
+        "h2": [],
+        "h3": [],
+        "h4": []
+      }
+    }
+  },
+  "atiqa odho": {
+    "keyword": "atiqa odho",
+    "search_volume": 45000,
+    "competition": "Medium",
+    "competition_index": 75,
+    "cpc": 8.6,
+    "trend": "Stable",
+    "difficulty": 68,
+    "potential_traffic": 9000,
+    "parent_topic": "atiqa",
+    "category": "technology",
+    "opportunity_score": 77,
+    "tail_type": "Mid-tail",
+    "serp_analysis": {
+      "competitors": 0,
+      "title_match_count": 0,
+      "top_domains": [],
+      "trust_score": 0,
+      "meta_data": {
+        "meta_description": [],
+        "h1": [],
+        "h2": [],
+        "h3": [],
+        "h4": []
+      }
+    }
+  },
+  "etiquette": {
+    "keyword": "etiquette",
+    "search_volume": 45000,
+    "competition": "Low",
+    "competition_index": 65,
+    "cpc": 8.6,
+    "trend": "Stable",
+    "difficulty": 68,
+    "potential_traffic": 9000,
+    "parent_topic": "",
+    "category": "technology",
+    "opportunity_score": 77,
+    "tail_type": "Short-tail",
+    "serp_analysis": {
+      "competitors": 0,
+      "title_match_count": 0,
+      "top_domains": [],
+      "trust_score": 0,
+      "meta_data": {
+        "meta_description": [],
+        "h1": [],
+        "h2": [],
+        "h3": [],
+        "h4": []
+      }
+    }
+  },
+  "attiqa": {
+    "keyword": "attiqa",
+    "search_volume": 45000,
+    "competition": "Medium",
+    "competition_index": 56,
+    "cpc": 4.4,
+    "trend": "Stable",
+    "difficulty": 56,
+    "potential_traffic": 9000,
+    "parent_topic": "",
+    "category": "technology",
+    "opportunity_score": 89,
+    "tail_type": "Short-tail",
+    "serp_analysis": {
+      "competitors": 0,
+      "title_match_count": 0,
+      "top_domains": [],
+      "trust_score": 0,
+      "meta_data": {
+        "meta_description": [],
+        "h1": [],
+        "h2": [],
+        "h3": [],
+        "h4": []
+      }
+    }
+  },
+  "saadi town": {
+    "keyword": "saadi town",
+    "search_volume": 45000,
+    "competition": "Medium",
+    "competition_index": 59,
+    "cpc": 0.2,
+    "trend": "Stable",
+    "difficulty": 54,
+    "potential_traffic": 9000,
+    "parent_topic": "saadi",
+    "category": "technology",
+    "opportunity_score": 91,
+    "tail_type": "Mid-tail",
+    "serp_analysis": {
+      "competitors": 0,
+      "title_match_count": 0,
+      "top_domains": [],
+      "trust_score": 0,
+      "meta_data": {
+        "meta_description": [],
+        "h1": [],
+        "h2": [],
+        "h3": [],
+        "h4": []
+      }
+    }
+  },
+  "saadi di sajji": {
+    "keyword": "saadi di sajji",
+    "search_volume": 22950,
+    "competition": "Medium",
+    "competition_index": 51,
+    "cpc": 1.2,
+    "trend": "Stable",
+    "difficulty": 53,
+    "potential_traffic": 4590,
+    "parent_topic": "saadi",
+    "category": "technology",
+    "opportunity_score": 69,
+    "tail_type": "Mid-tail",
+    "serp_analysis": {
+      "competitors": 0,
+      "title_match_count": 0,
+      "top_domains": [],
+      "trust_score": 0,
+      "meta_data": {
+        "meta_description": [],
+        "h1": [],
+        "h2": [],
+        "h3": [],
+        "h4": []
+      }
+    }
+  },
+  "saadia asad": {
+    "keyword": "saadia asad",
+    "search_volume": 45000,
+    "competition": "Low",
+    "competition_index": 79,
+    "cpc": 5.2,
+    "trend": "Stable",
+    "difficulty": 44,
+    "potential_traffic": 9000,
+    "parent_topic": "saadia",
+    "category": "technology",
+    "opportunity_score": 101,
+    "tail_type": "Mid-tail",
+    "serp_analysis": {
+      "competitors": 0,
+      "title_match_count": 0,
+      "top_domains": [],
+      "trust_score": 0,
+      "meta_data": {
+        "meta_description": [],
+        "h1": [],
+        "h2": [],
+        "h3": [],
+        "h4": []
+      }
+    }
+  },
+  "saadi garden": {
+    "keyword": "saadi garden",
+    "search_volume": 45000,
+    "competition": "Low",
+    "competition_index": 79,
+    "cpc": 7.1,
+    "trend": "Stable",
+    "difficulty": 43,
+    "potential_traffic": 9000,
+    "parent_topic": "saadi",
+    "category": "technology",
+    "opportunity_score": 102,
+    "tail_type": "Mid-tail",
+    "serp_analysis": {
+      "competitors": 0,
+      "title_match_count": 0,
+      "top_domains": [],
+      "trust_score": 0,
+      "meta_data": {
+        "meta_description": [],
+        "h1": [],
+        "h2": [],
+        "h3": [],
+        "h4": []
+      }
+    }
+  },
+  "saadi town postal code": {
+    "keyword": "saadi town postal code",
+    "search_volume": 15599,
+    "competition": "High",
+    "competition_index": 35,
+    "cpc": 3.6,
+    "trend": "Stable",
+    "difficulty": 33,
+    "potential_traffic": 3119,
+    "parent_topic": "saadi",
+    "category": "technology",
+    "opportunity_score": 82,
+    "tail_type": "Long-tail",
+    "serp_analysis": {
+      "competitors": 0,
+      "title_match_count": 0,
+      "top_domains": [],
+      "trust_score": 0,
+      "meta_data": {
+        "meta_description": [],
+        "h1": [],
+        "h2": [],
+        "h3": [],
+        "h4": []
+      }
+    }
+  },
+  "saadi garden plot for sale": {
+    "keyword": "saadi garden plot for sale",
+    "search_volume": 11925,
+    "competition": "Low",
+    "competition_index": 39,
+    "cpc": 6.2,
+    "trend": "Stable",
+    "difficulty": 27,
+    "potential_traffic": 2385,
+    "parent_topic": "saadi",
+    "category": "technology",
+    "opportunity_score": 84,
+    "tail_type": "Long-tail",
+    "serp_analysis": {
+      "competitors": 0,
+      "title_match_count": 0,
+      "top_domains": [],
+      "trust_score": 0,
+      "meta_data": {
+        "meta_description": [],
+        "h1": [],
+        "h2": [],
+        "h3": [],
+        "h4": []
+      }
+    }
+  },
+  "saadi shirazi": {
+    "keyword": "saadi shirazi",
+    "search_volume": 45000,
+    "competition": "Medium",
+    "competition_index": 56,
+    "cpc": 0.8,
+    "trend": "Stable",
+    "difficulty": 60,
+    "potential_traffic": 9000,
+    "parent_topic": "saadi",
+    "category": "technology",
+    "opportunity_score": 85,
+    "tail_type": "Mid-tail",
+    "serp_analysis": {
+      "competitors": 0,
+      "title_match_count": 0,
+      "top_domains": [],
+      "trust_score": 0,
+      "meta_data": {
+        "meta_description": [],
+        "h1": [
+          "Accessibility Links",
+          "Filters and Topics",
+          "Search Results"
+        ],
+        "h2": [
+          "Complementary Results"
+        ],
+        "h3": [
+          "Saadi Shirazi",
+          "Description",
+          "Sa\u02bfd\u012b | Persian Poet & Sufi Master"
+        ],
+        "h4": []
+      }
+    }
+  },
+  "saadibrahimstudio": {
+    "keyword": "saadibrahimstudio",
+    "search_volume": 45000,
+    "competition": "Medium",
+    "competition_index": 62,
+    "cpc": 0.5,
+    "trend": "Stable",
+    "difficulty": 47,
+    "potential_traffic": 9000,
+    "parent_topic": "",
+    "category": "technology",
+    "opportunity_score": 98,
+    "tail_type": "Short-tail",
+    "serp_analysis": {
+      "competitors": 0,
+      "title_match_count": 0,
+      "top_domains": [],
+      "trust_score": 0,
+      "meta_data": {
+        "meta_description": [],
+        "h1": [],
+        "h2": [],
+        "h3": [],
+        "h4": []
+      }
+    }
+  },
+  "saadi town direction": {
+    "keyword": "saadi town direction",
+    "search_volume": 22950,
+    "competition": "Medium",
+    "competition_index": 62,
+    "cpc": 9.5,
+    "trend": "Stable",
+    "difficulty": 46,
+    "potential_traffic": 4590,
+    "parent_topic": "saadi",
+    "category": "technology",
+    "opportunity_score": 76,
+    "tail_type": "Mid-tail",
+    "serp_analysis": {
+      "competitors": 0,
+      "title_match_count": 0,
+      "top_domains": [],
+      "trust_score": 0,
+      "meta_data": {
+        "meta_description": [],
+        "h1": [],
+        "h2": [],
+        "h3": [],
+        "h4": []
+      }
+    }
+  },
+  "saadi faraz": {
+    "keyword": "saadi faraz",
+    "search_volume": 45000,
+    "competition": "Low",
+    "competition_index": 82,
+    "cpc": 7.8,
+    "trend": "Stable",
+    "difficulty": 70,
+    "potential_traffic": 9000,
+    "parent_topic": "saadi",
+    "category": "technology",
+    "opportunity_score": 75,
+    "tail_type": "Mid-tail",
+    "serp_analysis": {
+      "competitors": 0,
+      "title_match_count": 0,
+      "top_domains": [],
+      "trust_score": 0,
+      "meta_data": {
+        "meta_description": [],
+        "h1": [],
+        "h2": [],
+        "h3": [],
+        "h4": []
+      }
+    }
+  },
+  "aamir khan": {
+    "keyword": "aamir khan",
+    "search_volume": 45000,
+    "competition": "High",
+    "competition_index": 79,
+    "cpc": 7.2,
+    "trend": "Stable",
+    "difficulty": 54,
+    "potential_traffic": 9000,
+    "parent_topic": "aamir",
+    "category": "technology",
+    "opportunity_score": 91,
+    "tail_type": "Mid-tail",
+    "serp_analysis": {
+      "competitors": 0,
+      "title_match_count": 0,
+      "top_domains": [],
+      "trust_score": 0,
+      "meta_data": {
+        "meta_description": [],
+        "h1": [
+          "Accessibility Links",
+          "Filters and Topics",
+          "Search Results"
+        ],
+        "h2": [
+          "Complementary Results"
+        ],
+        "h3": [
+          "Aamir Khan",
+          "Aamir Khan",
+          "Aamir Khan (@amirkhanactor_) - Instagram"
+        ],
+        "h4": []
+      }
+    }
+  },
+  "aaghi lms": {
+    "keyword": "aaghi lms",
+    "search_volume": 45000,
+    "competition": "Low",
+    "competition_index": 60,
+    "cpc": 7.0,
+    "trend": "Stable",
+    "difficulty": 42,
+    "potential_traffic": 9000,
+    "parent_topic": "aaghi",
+    "category": "technology",
+    "opportunity_score": 103,
+    "tail_type": "Mid-tail",
+    "serp_analysis": {
+      "competitors": 0,
+      "title_match_count": 0,
+      "top_domains": [],
+      "trust_score": 0,
+      "meta_data": {
+        "meta_description": [],
+        "h1": [],
+        "h2": [],
+        "h3": [],
+        "h4": []
+      }
+    }
+  },
+  "aas paas drama": {
+    "keyword": "aas paas drama",
+    "search_volume": 22950,
+    "competition": "Medium",
+    "competition_index": 49,
+    "cpc": 1.1,
+    "trend": "Stable",
+    "difficulty": 52,
+    "potential_traffic": 4590,
+    "parent_topic": "aas",
+    "category": "technology",
+    "opportunity_score": 70,
+    "tail_type": "Mid-tail",
+    "serp_analysis": {
+      "competitors": 0,
+      "title_match_count": 0,
+      "top_domains": [],
+      "trust_score": 0,
+      "meta_data": {
+        "meta_description": [],
+        "h1": [],
+        "h2": [],
+        "h3": [],
+        "h4": []
+      }
+    }
+  },
+  "aa": {
+    "keyword": "aa",
+    "search_volume": 45000,
+    "competition": "Medium",
+    "competition_index": 70,
+    "cpc": 9.4,
+    "trend": "Stable",
+    "difficulty": 56,
+    "potential_traffic": 9000,
+    "parent_topic": "",
+    "category": "technology",
+    "opportunity_score": 89,
+    "tail_type": "Short-tail",
+    "serp_analysis": {
+      "competitors": 0,
+      "title_match_count": 0,
+      "top_domains": [],
+      "trust_score": 0,
+      "meta_data": {
+        "meta_description": [],
+        "h1": [
+          "Accessibility Links",
+          "Search Results",
+          "Ads"
+        ],
+        "h2": [
+          "Web Result with Site Links",
+          "Complementary Results"
+        ],
+        "h3": [
+          "American Airlines - Airline tickets and low fares at aa.com",
+          "Book flights",
+          "Flight status"
+        ],
+        "h4": []
+      }
+    }
+  },
+  "aafia siddiqui": {
+    "keyword": "aafia siddiqui",
+    "search_volume": 45000,
+    "competition": "Medium",
+    "competition_index": 61,
+    "cpc": 9.0,
+    "trend": "Stable",
+    "difficulty": 52,
+    "potential_traffic": 9000,
+    "parent_topic": "aafia",
+    "category": "technology",
+    "opportunity_score": 93,
+    "tail_type": "Mid-tail",
+    "serp_analysis": {
+      "competitors": 0,
+      "title_match_count": 0,
+      "top_domains": [],
+      "trust_score": 0,
+      "meta_data": {
+        "meta_description": [],
+        "h1": [],
+        "h2": [],
+        "h3": [],
+        "h4": []
+      }
+    }
+  },
+  "aashiqui 2": {
+    "keyword": "aashiqui 2",
+    "search_volume": 45000,
+    "competition": "Medium",
+    "competition_index": 77,
+    "cpc": 3.5,
+    "trend": "Stable",
+    "difficulty": 47,
+    "potential_traffic": 9000,
+    "parent_topic": "aashiqui",
+    "category": "technology",
+    "opportunity_score": 98,
+    "tail_type": "Mid-tail",
+    "serp_analysis": {
+      "competitors": 0,
+      "title_match_count": 0,
+      "top_domains": [],
+      "trust_score": 0,
+      "meta_data": {
+        "meta_description": [],
+        "h1": [],
+        "h2": [],
+        "h3": [],
+        "h4": []
+      }
+    }
+  },
+  "aayu and pihu show": {
+    "keyword": "aayu and pihu show",
+    "search_volume": 15599,
+    "competition": "Medium",
+    "competition_index": 29,
+    "cpc": 2.2,
+    "trend": "Stable",
+    "difficulty": 39,
+    "potential_traffic": 3119,
+    "parent_topic": "aayu",
+    "category": "technology",
+    "opportunity_score": 76,
+    "tail_type": "Long-tail",
+    "serp_analysis": {
+      "competitors": 0,
+      "title_match_count": 0,
+      "top_domains": [],
+      "trust_score": 0,
+      "meta_data": {
+        "meta_description": [],
+        "h1": [],
+        "h2": [],
+        "h3": [],
+        "h4": []
+      }
+    }
+  },
+  "aahat": {
+    "keyword": "aahat",
+    "search_volume": 45000,
+    "competition": "Medium",
+    "competition_index": 66,
+    "cpc": 1.1,
+    "trend": "Stable",
+    "difficulty": 43,
+    "potential_traffic": 9000,
+    "parent_topic": "",
+    "category": "technology",
+    "opportunity_score": 102,
+    "tail_type": "Short-tail",
+    "serp_analysis": {
+      "competitors": 0,
+      "title_match_count": 0,
+      "top_domains": [],
+      "trust_score": 0,
+      "meta_data": {
+        "meta_description": [],
+        "h1": [],
+        "h2": [],
+        "h3": [],
+        "h4": []
+      }
+    }
+  },
+  "aaj ki raat": {
+    "keyword": "aaj ki raat",
+    "search_volume": 22950,
+    "competition": "Medium",
+    "competition_index": 51,
+    "cpc": 0.0,
+    "trend": "Stable",
+    "difficulty": 41,
+    "potential_traffic": 4590,
+    "parent_topic": "aaj",
+    "category": "technology",
+    "opportunity_score": 81,
+    "tail_type": "Mid-tail",
+    "serp_analysis": {
+      "competitors": 0,
+      "title_match_count": 0,
+      "top_domains": [],
+      "trust_score": 0,
+      "meta_data": {
+        "meta_description": [],
+        "h1": [],
+        "h2": [],
+        "h3": [],
+        "h4": []
+      }
+    }
+  },
+  "aamir khan movies": {
+    "keyword": "aamir khan movies",
+    "search_volume": 22950,
+    "competition": "Low",
+    "competition_index": 60,
+    "cpc": 6.3,
+    "trend": "Stable",
+    "difficulty": 44,
+    "potential_traffic": 4590,
+    "parent_topic": "aamir",
+    "category": "technology",
+    "opportunity_score": 78,
+    "tail_type": "Mid-tail",
+    "serp_analysis": {
+      "competitors": 0,
+      "title_match_count": 0,
+      "top_domains": [],
+      "trust_score": 0,
+      "meta_data": {
+        "meta_description": [],
+        "h1": [],
+        "h2": [],
+        "h3": [],
+        "h4": []
+      }
+    }
+  },
+  "aiou": {
+    "keyword": "aiou",
+    "search_volume": 45000,
+    "competition": "Low",
+    "competition_index": 59,
+    "cpc": 3.0,
+    "trend": "Stable",
+    "difficulty": 52,
+    "potential_traffic": 9000,
+    "parent_topic": "",
+    "category": "technology",
+    "opportunity_score": 93,
+    "tail_type": "Short-tail",
+    "serp_analysis": {
+      "competitors": 0,
+      "title_match_count": 0,
+      "top_domains": [],
+      "trust_score": 0,
+      "meta_data": {
+        "meta_description": [],
+        "h1": [],
+        "h2": [],
+        "h3": [],
+        "h4": []
+      }
+    }
+  },
+  "amazon": {
+    "keyword": "amazon",
+    "search_volume": 45000,
+    "competition": "Low",
+    "competition_index": 63,
+    "cpc": 4.6,
+    "trend": "Stable",
+    "difficulty": 58,
+    "potential_traffic": 9000,
+    "parent_topic": "",
+    "category": "technology",
+    "opportunity_score": 87,
+    "tail_type": "Short-tail",
+    "serp_analysis": {
+      "competitors": 0,
+      "title_match_count": 0,
+      "top_domains": [],
+      "trust_score": 0,
+      "meta_data": {
+        "meta_description": [],
+        "h1": [],
+        "h2": [],
+        "h3": [],
+        "h4": []
+      }
+    }
+  },
+  "age calculator": {
+    "keyword": "age calculator",
+    "search_volume": 45000,
+    "competition": "Low",
+    "competition_index": 79,
+    "cpc": 9.9,
+    "trend": "Stable",
+    "difficulty": 61,
+    "potential_traffic": 9000,
+    "parent_topic": "age",
+    "category": "technology",
+    "opportunity_score": 84,
+    "tail_type": "Mid-tail",
+    "serp_analysis": {
+      "competitors": 0,
+      "title_match_count": 0,
+      "top_domains": [],
+      "trust_score": 0,
+      "meta_data": {
+        "meta_description": [],
+        "h1": [],
+        "h2": [],
+        "h3": [],
+        "h4": []
+      }
+    }
+  },
+  "ai": {
+    "keyword": "ai",
+    "search_volume": 45000,
+    "competition": "Medium",
+    "competition_index": 65,
+    "cpc": 0.2,
+    "trend": "Stable",
+    "difficulty": 64,
+    "potential_traffic": 9000,
+    "parent_topic": "",
+    "category": "technology",
+    "opportunity_score": 81,
+    "tail_type": "Short-tail",
+    "serp_analysis": {
+      "competitors": 0,
+      "title_match_count": 0,
+      "top_domains": [],
+      "trust_score": 0,
+      "meta_data": {
+        "meta_description": [],
+        "h1": [],
+        "h2": [],
+        "h3": [],
+        "h4": []
+      }
+    }
+  },
+  "ayatul kursi": {
+    "keyword": "ayatul kursi",
+    "search_volume": 45000,
+    "competition": "Medium",
+    "competition_index": 72,
+    "cpc": 4.6,
+    "trend": "Stable",
+    "difficulty": 58,
+    "potential_traffic": 9000,
+    "parent_topic": "ayatul",
+    "category": "technology",
+    "opportunity_score": 87,
+    "tail_type": "Mid-tail",
+    "serp_analysis": {
+      "competitors": 0,
+      "title_match_count": 0,
+      "top_domains": [],
+      "trust_score": 0,
+      "meta_data": {
+        "meta_description": [],
+        "h1": [],
+        "h2": [],
+        "h3": [],
+        "h4": []
+      }
+    }
+  },
+  "apk cort": {
+    "keyword": "apk cort",
+    "search_volume": 45000,
+    "competition": "Medium",
+    "competition_index": 75,
+    "cpc": 8.8,
+    "trend": "Stable",
+    "difficulty": 50,
+    "potential_traffic": 9000,
+    "parent_topic": "apk",
+    "category": "technology",
+    "opportunity_score": 95,
+    "tail_type": "Mid-tail",
+    "serp_analysis": {
+      "competitors": 0,
+      "title_match_count": 0,
+      "top_domains": [],
+      "trust_score": 0,
+      "meta_data": {
+        "meta_description": [],
+        "h1": [],
+        "h2": [],
+        "h3": [],
+        "h4": []
+      }
+    }
+  },
+  "ak lasbela": {
+    "keyword": "ak lasbela",
+    "search_volume": 45000,
+    "competition": "Low",
+    "competition_index": 82,
+    "cpc": 6.0,
+    "trend": "Stable",
+    "difficulty": 42,
+    "potential_traffic": 9000,
+    "parent_topic": "ak",
+    "category": "technology",
+    "opportunity_score": 103,
+    "tail_type": "Mid-tail",
+    "serp_analysis": {
+      "competitors": 0,
+      "title_match_count": 0,
+      "top_domains": [],
+      "trust_score": 0,
+      "meta_data": {
+        "meta_description": [],
+        "h1": [],
+        "h2": [],
+        "h3": [],
+        "h4": []
+      }
+    }
+  },
+  "aed to pkr": {
+    "keyword": "aed to pkr",
+    "search_volume": 22950,
+    "competition": "Medium",
+    "competition_index": 37,
+    "cpc": 2.2,
+    "trend": "Stable",
+    "difficulty": 53,
+    "potential_traffic": 4590,
+    "parent_topic": "aed",
+    "category": "technology",
+    "opportunity_score": 69,
+    "tail_type": "Mid-tail",
+    "serp_analysis": {
+      "competitors": 0,
+      "title_match_count": 0,
+      "top_domains": [],
+      "trust_score": 0,
+      "meta_data": {
+        "meta_description": [],
+        "h1": [],
+        "h2": [],
+        "h3": [],
+        "h4": []
+      }
+    }
+  },
+  "aiou enrollment": {
+    "keyword": "aiou enrollment",
+    "search_volume": 45000,
+    "competition": "Low",
+    "competition_index": 61,
+    "cpc": 5.0,
+    "trend": "Stable",
+    "difficulty": 62,
+    "potential_traffic": 9000,
+    "parent_topic": "aiou",
+    "category": "technology",
+    "opportunity_score": 83,
+    "tail_type": "Mid-tail",
+    "serp_analysis": {
+      "competitors": 0,
+      "title_match_count": 0,
+      "top_domains": [],
+      "trust_score": 0,
+      "meta_data": {
+        "meta_description": [],
+        "h1": [],
+        "h2": [],
+        "h3": [],
+        "h4": []
+      }
+    }
+  },
+  "apk venom": {
+    "keyword": "apk venom",
+    "search_volume": 45000,
+    "competition": "Low",
+    "competition_index": 57,
+    "cpc": 9.7,
+    "trend": "Stable",
+    "difficulty": 69,
+    "potential_traffic": 9000,
+    "parent_topic": "apk",
+    "category": "technology",
+    "opportunity_score": 76,
+    "tail_type": "Mid-tail",
+    "serp_analysis": {
+      "competitors": 0,
+      "title_match_count": 0,
+      "top_domains": [],
+      "trust_score": 0,
+      "meta_data": {
+        "meta_description": [],
+        "h1": [],
+        "h2": [],
+        "h3": [],
+        "h4": []
+      }
+    }
+  },
+  "ayesha khan": {
+    "keyword": "ayesha khan",
+    "search_volume": 45000,
+    "competition": "Medium",
+    "competition_index": 77,
+    "cpc": 8.5,
+    "trend": "Stable",
+    "difficulty": 47,
+    "potential_traffic": 9000,
+    "parent_topic": "ayesha",
+    "category": "technology",
+    "opportunity_score": 98,
+    "tail_type": "Mid-tail",
+    "serp_analysis": {
+      "competitors": 0,
+      "title_match_count": 0,
+      "top_domains": [],
+      "trust_score": 0,
+      "meta_data": {
+        "meta_description": [],
+        "h1": [],
+        "h2": [],
+        "h3": [],
+        "h4": []
+      }
+    }
+  },
+  "ayesha name meaning in urdu": {
+    "keyword": "ayesha name meaning in urdu",
+    "search_volume": 11925,
+    "competition": "Medium",
+    "competition_index": 32,
+    "cpc": 7.8,
+    "trend": "Stable",
+    "difficulty": 53,
+    "potential_traffic": 2385,
+    "parent_topic": "ayesha",
+    "category": "technology",
+    "opportunity_score": 58,
+    "tail_type": "Long-tail",
+    "serp_analysis": {
+      "competitors": 0,
+      "title_match_count": 0,
+      "top_domains": [],
+      "trust_score": 0,
+      "meta_data": {
+        "meta_description": [],
+        "h1": [],
+        "h2": [],
+        "h3": [],
+        "h4": []
+      }
+    }
+  },
+  "ayesha": {
+    "keyword": "ayesha",
+    "search_volume": 45000,
+    "competition": "Medium",
+    "competition_index": 61,
+    "cpc": 3.5,
+    "trend": "Stable",
+    "difficulty": 47,
+    "potential_traffic": 9000,
+    "parent_topic": "",
+    "category": "technology",
+    "opportunity_score": 98,
+    "tail_type": "Short-tail",
+    "serp_analysis": {
+      "competitors": 0,
+      "title_match_count": 0,
+      "top_domains": [],
+      "trust_score": 0,
+      "meta_data": {
+        "meta_description": [],
+        "h1": [],
+        "h2": [],
+        "h3": [],
+        "h4": []
+      }
+    }
+  },
+  "ayesha omar": {
+    "keyword": "ayesha omar",
+    "search_volume": 45000,
+    "competition": "Medium",
+    "competition_index": 75,
+    "cpc": 9.8,
+    "trend": "Stable",
+    "difficulty": 60,
+    "potential_traffic": 9000,
+    "parent_topic": "ayesha",
+    "category": "technology",
+    "opportunity_score": 85,
+    "tail_type": "Mid-tail",
+    "serp_analysis": {
+      "competitors": 0,
+      "title_match_count": 0,
+      "top_domains": [],
+      "trust_score": 0,
+      "meta_data": {
+        "meta_description": [],
+        "h1": [],
+        "h2": [],
+        "h3": [],
+        "h4": []
+      }
+    }
+  },
+  "ayesha takia": {
+    "keyword": "ayesha takia",
+    "search_volume": 45000,
+    "competition": "Medium",
+    "competition_index": 80,
+    "cpc": 8.9,
+    "trend": "Stable",
+    "difficulty": 61,
+    "potential_traffic": 9000,
+    "parent_topic": "ayesha",
+    "category": "technology",
+    "opportunity_score": 84,
+    "tail_type": "Mid-tail",
+    "serp_analysis": {
+      "competitors": 0,
+      "title_match_count": 0,
+      "top_domains": [],
+      "trust_score": 0,
+      "meta_data": {
+        "meta_description": [],
+        "h1": [],
+        "h2": [],
+        "h3": [],
+        "h4": []
+      }
+    }
+  },
+  "ayesha siddiqui": {
+    "keyword": "ayesha siddiqui",
+    "search_volume": 45000,
+    "competition": "Medium",
+    "competition_index": 80,
+    "cpc": 2.7,
+    "trend": "Stable",
+    "difficulty": 69,
+    "potential_traffic": 9000,
+    "parent_topic": "ayesha",
+    "category": "technology",
+    "opportunity_score": 76,
+    "tail_type": "Mid-tail",
+    "serp_analysis": {
+      "competitors": 0,
+      "title_match_count": 0,
+      "top_domains": [],
+      "trust_score": 0,
+      "meta_data": {
+        "meta_description": [],
+        "h1": [],
+        "h2": [],
+        "h3": [],
+        "h4": []
+      }
+    }
+  },
+  "ayesha khan pakistani actress": {
+    "keyword": "ayesha khan pakistani actress",
+    "search_volume": 15599,
+    "competition": "Medium",
+    "competition_index": 25,
+    "cpc": 7.0,
+    "trend": "Stable",
+    "difficulty": 47,
+    "potential_traffic": 3119,
+    "parent_topic": "ayesha",
+    "category": "technology",
+    "opportunity_score": 68,
+    "tail_type": "Long-tail",
+    "serp_analysis": {
+      "competitors": 0,
+      "title_match_count": 0,
+      "top_domains": [],
+      "trust_score": 0,
+      "meta_data": {
+        "meta_description": [],
+        "h1": [],
+        "h2": [],
+        "h3": [],
+        "h4": []
+      }
+    }
+  },
+  "ayesha farooq": {
+    "keyword": "ayesha farooq",
+    "search_volume": 45000,
+    "competition": "Medium",
+    "competition_index": 61,
+    "cpc": 1.5,
+    "trend": "Stable",
+    "difficulty": 67,
+    "potential_traffic": 9000,
+    "parent_topic": "ayesha",
+    "category": "technology",
+    "opportunity_score": 78,
+    "tail_type": "Mid-tail",
+    "serp_analysis": {
+      "competitors": 0,
+      "title_match_count": 0,
+      "top_domains": [],
+      "trust_score": 0,
+      "meta_data": {
+        "meta_description": [],
+        "h1": [],
+        "h2": [],
+        "h3": [],
+        "h4": []
+      }
+    }
+  },
+  "ayesha khan actress": {
+    "keyword": "ayesha khan actress",
+    "search_volume": 22950,
+    "competition": "Medium",
+    "competition_index": 44,
+    "cpc": 7.4,
+    "trend": "Stable",
+    "difficulty": 45,
+    "potential_traffic": 4590,
+    "parent_topic": "ayesha",
+    "category": "technology",
+    "opportunity_score": 77,
+    "tail_type": "Mid-tail",
+    "serp_analysis": {
+      "competitors": 0,
+      "title_match_count": 0,
+      "top_domains": [],
+      "trust_score": 0,
+      "meta_data": {
+        "meta_description": [],
+        "h1": [],
+        "h2": [],
+        "h3": [],
+        "h4": []
+      }
+    }
+  },
+  "ayesha name meaning": {
+    "keyword": "ayesha name meaning",
+    "search_volume": 22950,
+    "competition": "High",
+    "competition_index": 37,
+    "cpc": 5.1,
+    "trend": "Stable",
+    "difficulty": 52,
+    "potential_traffic": 4590,
+    "parent_topic": "ayesha",
+    "category": "technology",
+    "opportunity_score": 70,
+    "tail_type": "Mid-tail",
+    "serp_analysis": {
+      "competitors": 0,
+      "title_match_count": 0,
+      "top_domains": [],
+      "trust_score": 0,
+      "meta_data": {
+        "meta_description": [],
+        "h1": [],
+        "h2": [],
+        "h3": [],
+        "h4": []
+      }
+    }
+  },
+  "imran khan": {
+    "keyword": "imran khan",
+    "search_volume": 45000,
+    "competition": "Medium",
+    "competition_index": 70,
+    "cpc": 8.5,
+    "trend": "Stable",
+    "difficulty": 67,
+    "potential_traffic": 9000,
+    "parent_topic": "imran",
+    "category": "technology",
+    "opportunity_score": 78,
+    "tail_type": "Mid-tail",
+    "serp_analysis": {
+      "competitors": 0,
+      "title_match_count": 0,
+      "top_domains": [],
+      "trust_score": 0,
+      "meta_data": {
+        "meta_description": [],
+        "h1": [],
+        "h2": [],
+        "h3": [],
+        "h4": []
+      }
+    }
+  },
+  "imran khan pic": {
+    "keyword": "imran khan pic",
+    "search_volume": 22950,
+    "competition": "Medium",
+    "competition_index": 32,
+    "cpc": 3.3,
+    "trend": "Stable",
+    "difficulty": 44,
+    "potential_traffic": 4590,
+    "parent_topic": "imran",
+    "category": "technology",
+    "opportunity_score": 78,
+    "tail_type": "Mid-tail",
+    "serp_analysis": {
+      "competitors": 0,
+      "title_match_count": 0,
+      "top_domains": [],
+      "trust_score": 0,
+      "meta_data": {
+        "meta_description": [],
+        "h1": [],
+        "h2": [],
+        "h3": [],
+        "h4": []
+      }
+    }
+  },
+  "imran khan age": {
+    "keyword": "imran khan age",
+    "search_volume": 22950,
+    "competition": "Low",
+    "competition_index": 55,
+    "cpc": 1.8,
+    "trend": "Stable",
+    "difficulty": 59,
+    "potential_traffic": 4590,
+    "parent_topic": "imran",
+    "category": "technology",
+    "opportunity_score": 63,
+    "tail_type": "Mid-tail",
+    "serp_analysis": {
+      "competitors": 0,
+      "title_match_count": 0,
+      "top_domains": [],
+      "trust_score": 0,
+      "meta_data": {
+        "meta_description": [],
+        "h1": [],
+        "h2": [],
+        "h3": [],
+        "h4": []
+      }
+    }
+  },
+  "imran khan picture": {
+    "keyword": "imran khan picture",
+    "search_volume": 22950,
+    "competition": "Low",
+    "competition_index": 40,
+    "cpc": 8.1,
+    "trend": "Stable",
+    "difficulty": 42,
+    "potential_traffic": 4590,
+    "parent_topic": "imran",
+    "category": "technology",
+    "opportunity_score": 80,
+    "tail_type": "Mid-tail",
+    "serp_analysis": {
+      "competitors": 0,
+      "title_match_count": 0,
+      "top_domains": [],
+      "trust_score": 0,
+      "meta_data": {
+        "meta_description": [],
+        "h1": [],
+        "h2": [],
+        "h3": [],
+        "h4": []
+      }
+    }
+  },
+  "imran khan education": {
+    "keyword": "imran khan education",
+    "search_volume": 22950,
+    "competition": "Medium",
+    "competition_index": 40,
+    "cpc": 7.3,
+    "trend": "Stable",
+    "difficulty": 54,
+    "potential_traffic": 4590,
+    "parent_topic": "imran",
+    "category": "technology",
+    "opportunity_score": 68,
+    "tail_type": "Mid-tail",
+    "serp_analysis": {
+      "competitors": 0,
+      "title_match_count": 0,
+      "top_domains": [],
+      "trust_score": 0,
+      "meta_data": {
+        "meta_description": [],
+        "h1": [],
+        "h2": [],
+        "h3": [],
+        "h4": []
+      }
+    }
+  },
+  "imran khan released": {
+    "keyword": "imran khan released",
+    "search_volume": 22950,
+    "competition": "High",
+    "competition_index": 37,
+    "cpc": 5.4,
+    "trend": "Stable",
+    "difficulty": 55,
+    "potential_traffic": 4590,
+    "parent_topic": "imran",
+    "category": "technology",
+    "opportunity_score": 67,
+    "tail_type": "Mid-tail",
+    "serp_analysis": {
+      "competitors": 0,
+      "title_match_count": 0,
+      "top_domains": [],
+      "trust_score": 0,
+      "meta_data": {
+        "meta_description": [],
+        "h1": [],
+        "h2": [],
+        "h3": [],
+        "h4": []
+      }
+    }
+  },
+  "imran khan actor": {
+    "keyword": "imran khan actor",
+    "search_volume": 22950,
+    "competition": "Low",
+    "competition_index": 37,
+    "cpc": 5.4,
+    "trend": "Stable",
+    "difficulty": 55,
+    "potential_traffic": 4590,
+    "parent_topic": "imran",
+    "category": "technology",
+    "opportunity_score": 67,
+    "tail_type": "Mid-tail",
+    "serp_analysis": {
+      "competitors": 0,
+      "title_match_count": 0,
+      "top_domains": [],
+      "trust_score": 0,
+      "meta_data": {
+        "meta_description": [],
+        "h1": [],
+        "h2": [],
+        "h3": [],
+        "h4": []
+      }
+    }
+  },
+  "imran khan best photos": {
+    "keyword": "imran khan best photos",
+    "search_volume": 15599,
+    "competition": "Medium",
+    "competition_index": 53,
+    "cpc": 4.8,
+    "trend": "Stable",
+    "difficulty": 45,
+    "potential_traffic": 3119,
+    "parent_topic": "imran",
+    "category": "technology",
+    "opportunity_score": 70,
+    "tail_type": "Long-tail",
+    "serp_analysis": {
+      "competitors": 0,
+      "title_match_count": 0,
+      "top_domains": [],
+      "trust_score": 0,
+      "meta_data": {
+        "meta_description": [],
+        "h1": [],
+        "h2": [],
+        "h3": [],
+        "h4": []
+      }
+    }
+  },
+  "imran khan stats": {
+    "keyword": "imran khan stats",
+    "search_volume": 22950,
+    "competition": "Low",
+    "competition_index": 44,
+    "cpc": 7.6,
+    "trend": "Stable",
+    "difficulty": 47,
+    "potential_traffic": 4590,
+    "parent_topic": "imran",
+    "category": "technology",
+    "opportunity_score": 75,
+    "tail_type": "Mid-tail",
+    "serp_analysis": {
+      "competitors": 0,
+      "title_match_count": 0,
+      "top_domains": [],
+      "trust_score": 0,
+      "meta_data": {
+        "meta_description": [],
+        "h1": [
+          "Accessibility Links",
+          "Filters and Topics",
+          "Search Results"
+        ],
+        "h2": [
+          "Complementary Results"
+        ],
+        "h3": [
+          "Imran Khan - Cricket Player Pakistan",
+          "Description",
+          "Imran Khan"
+        ],
+        "h4": []
+      }
+    }
+  },
+  "imran khan date of birth": {
+    "keyword": "imran khan date of birth",
+    "search_volume": 11925,
+    "competition": "High",
+    "competition_index": 21,
+    "cpc": 4.5,
+    "trend": "Stable",
+    "difficulty": 50,
+    "potential_traffic": 2385,
+    "parent_topic": "imran",
+    "category": "technology",
+    "opportunity_score": 61,
+    "tail_type": "Long-tail",
+    "serp_analysis": {
+      "competitors": 0,
+      "title_match_count": 0,
+      "top_domains": [],
+      "trust_score": 0,
+      "meta_data": {
+        "meta_description": [],
+        "h1": [],
+        "h2": [],
+        "h3": [],
+        "h4": []
+      }
+    }
+  },
+  "how to learn freelancing in pakistan": {
+    "keyword": "how to learn freelancing in pakistan",
+    "search_volume": 5175,
+    "competition": "Medium",
+    "competition_index": 30,
+    "cpc": 7.5,
+    "trend": "Rising",
+    "difficulty": 47,
+    "potential_traffic": 1035,
+    "parent_topic": "how",
+    "category": "education",
+    "opportunity_score": 58,
+    "tail_type": "Long-tail",
+    "serp_analysis": {
+      "competitors": 0,
+      "title_match_count": 0,
+      "top_domains": [],
+      "trust_score": 0,
+      "meta_data": {
+        "meta_description": [],
+        "h1": [],
+        "h2": [],
+        "h3": [],
+        "h4": []
+      }
+    }
+  },
+  "how to learn freelancing skills for free": {
+    "keyword": "how to learn freelancing skills for free",
+    "search_volume": 4320,
+    "competition": "Medium",
+    "competition_index": 41,
+    "cpc": 3.6,
+    "trend": "Rising",
+    "difficulty": 48,
+    "potential_traffic": 864,
+    "parent_topic": "how",
+    "category": "education",
+    "opportunity_score": 56,
+    "tail_type": "Long-tail",
+    "serp_analysis": {
+      "competitors": 0,
+      "title_match_count": 0,
+      "top_domains": [],
+      "trust_score": 0,
+      "meta_data": {
+        "meta_description": [],
+        "h1": [],
+        "h2": [],
+        "h3": [],
+        "h4": []
+      }
+    }
+  },
+  "how to learn freelancing skills": {
+    "keyword": "how to learn freelancing skills",
+    "search_volume": 5175,
+    "competition": "Medium",
+    "competition_index": 23,
+    "cpc": 2.7,
+    "trend": "Rising",
+    "difficulty": 49,
+    "potential_traffic": 1035,
+    "parent_topic": "how",
+    "category": "education",
+    "opportunity_score": 56,
+    "tail_type": "Long-tail",
+    "serp_analysis": {
+      "competitors": 0,
+      "title_match_count": 0,
+      "top_domains": [],
+      "trust_score": 0,
+      "meta_data": {
+        "meta_description": [],
+        "h1": [],
+        "h2": [],
+        "h3": [],
+        "h4": []
+      }
+    }
+  },
+  "how to learn freelancing at home free": {
+    "keyword": "how to learn freelancing at home free",
+    "search_volume": 4320,
+    "competition": "Medium",
+    "competition_index": 14,
+    "cpc": 8.9,
+    "trend": "Rising",
+    "difficulty": 31,
+    "potential_traffic": 864,
+    "parent_topic": "how",
+    "category": "education",
+    "opportunity_score": 73,
+    "tail_type": "Long-tail",
+    "serp_analysis": {
+      "competitors": 0,
+      "title_match_count": 0,
+      "top_domains": [],
+      "trust_score": 0,
+      "meta_data": {
+        "meta_description": [],
+        "h1": [],
+        "h2": [],
+        "h3": [],
+        "h4": []
+      }
+    }
+  },
+  "how to learn freelancing for free": {
+    "keyword": "how to learn freelancing for free",
+    "search_volume": 5175,
+    "competition": "Medium",
+    "competition_index": 35,
+    "cpc": 4.6,
+    "trend": "Rising",
+    "difficulty": 48,
+    "potential_traffic": 1035,
+    "parent_topic": "how",
+    "category": "education",
+    "opportunity_score": 57,
+    "tail_type": "Long-tail",
+    "serp_analysis": {
+      "competitors": 0,
+      "title_match_count": 0,
+      "top_domains": [],
+      "trust_score": 0,
+      "meta_data": {
+        "meta_description": [],
+        "h1": [],
+        "h2": [],
+        "h3": [],
+        "h4": []
+      }
+    }
+  },
+  "how to learn freelancing at home": {
+    "keyword": "how to learn freelancing at home",
+    "search_volume": 5175,
+    "competition": "High",
+    "competition_index": 38,
+    "cpc": 3.9,
+    "trend": "Rising",
+    "difficulty": 31,
+    "potential_traffic": 1035,
+    "parent_topic": "how",
+    "category": "education",
+    "opportunity_score": 74,
+    "tail_type": "Long-tail",
+    "serp_analysis": {
+      "competitors": 0,
+      "title_match_count": 0,
+      "top_domains": [],
+      "trust_score": 0,
+      "meta_data": {
+        "meta_description": [],
+        "h1": [],
+        "h2": [],
+        "h3": [],
+        "h4": []
+      }
+    }
+  },
+  "how to learn freelancing in bangladesh": {
+    "keyword": "how to learn freelancing in bangladesh",
+    "search_volume": 5175,
+    "competition": "Medium",
+    "competition_index": 28,
+    "cpc": 4.9,
+    "trend": "Rising",
+    "difficulty": 41,
+    "potential_traffic": 1035,
+    "parent_topic": "how",
+    "category": "education",
+    "opportunity_score": 64,
+    "tail_type": "Long-tail",
+    "serp_analysis": {
+      "competitors": 0,
+      "title_match_count": 0,
+      "top_domains": [],
+      "trust_score": 0,
+      "meta_data": {
+        "meta_description": [],
+        "h1": [],
+        "h2": [],
+        "h3": [],
+        "h4": []
+      }
+    }
+  },
+  "how to learn freelancing skills for free online": {
+    "keyword": "how to learn freelancing skills for free online",
+    "search_volume": 3749,
+    "competition": "High",
+    "competition_index": 23,
+    "cpc": 1.3,
+    "trend": "Rising",
+    "difficulty": 34,
+    "potential_traffic": 749,
+    "parent_topic": "how",
+    "category": "education",
+    "opportunity_score": 69,
+    "tail_type": "Long-tail",
+    "serp_analysis": {
+      "competitors": 0,
+      "title_match_count": 0,
+      "top_domains": [],
+      "trust_score": 0,
+      "meta_data": {
+        "meta_description": [],
+        "h1": [],
+        "h2": [],
+        "h3": [],
+        "h4": []
+      }
+    }
+  },
+  "how to learn freelancing for beginners": {
+    "keyword": "how to learn freelancing for beginners",
+    "search_volume": 5175,
+    "competition": "Low",
+    "competition_index": 19,
+    "cpc": 8.5,
+    "trend": "Rising",
+    "difficulty": 47,
+    "potential_traffic": 1035,
+    "parent_topic": "how",
+    "category": "education",
+    "opportunity_score": 58,
+    "tail_type": "Long-tail",
+    "serp_analysis": {
+      "competitors": 0,
+      "title_match_count": 0,
+      "top_domains": [],
+      "trust_score": 0,
+      "meta_data": {
+        "meta_description": [],
+        "h1": [],
+        "h2": [],
+        "h3": [],
+        "h4": []
+      }
+    }
+  },
+  "how to learn freelancing skills for beginners": {
+    "keyword": "how to learn freelancing skills for beginners",
+    "search_volume": 4320,
+    "competition": "Medium",
+    "competition_index": 43,
+    "cpc": 7.5,
+    "trend": "Rising",
+    "difficulty": 47,
+    "potential_traffic": 864,
+    "parent_topic": "how",
+    "category": "education",
+    "opportunity_score": 57,
+    "tail_type": "Long-tail",
+    "serp_analysis": {
+      "competitors": 0,
+      "title_match_count": 0,
+      "top_domains": [],
+      "trust_score": 0,
+      "meta_data": {
+        "meta_description": [],
+        "h1": [],
+        "h2": [],
+        "h3": [],
+        "h4": []
+      }
+    }
+  },
+  "top shopping websites in pakistan": {
+    "keyword": "top shopping websites in pakistan",
+    "search_volume": 20025,
+    "competition": "Medium",
+    "competition_index": 59,
+    "cpc": 8.3,
+    "trend": "Stable",
+    "difficulty": 43,
+    "potential_traffic": 4005,
+    "parent_topic": "top",
+    "category": "shopping",
+    "opportunity_score": 77,
+    "tail_type": "Long-tail",
+    "serp_analysis": {
+      "error": "Google detected automated requests. Please try again later.",
+      "status": "blocked"
+    }
+  },
+  "top shopping websites": {
+    "keyword": "top shopping websites",
+    "search_volume": 37350,
+    "competition": "Medium",
+    "competition_index": 69,
+    "cpc": 4.5,
+    "trend": "Stable",
+    "difficulty": 53,
+    "potential_traffic": 7470,
+    "parent_topic": "top",
+    "category": "shopping",
+    "opportunity_score": 84,
+    "tail_type": "Mid-tail",
+    "serp_analysis": {
+      "error": "Google detected automated requests. Please try again later.",
+      "status": "blocked"
+    }
+  },
+  "top shopping websites in india": {
+    "keyword": "top shopping websites in india",
+    "search_volume": 20025,
+    "competition": "Low",
+    "competition_index": 34,
+    "cpc": 4.1,
+    "trend": "Stable",
+    "difficulty": 31,
+    "potential_traffic": 4005,
+    "parent_topic": "top",
+    "category": "shopping",
+    "opportunity_score": 89,
+    "tail_type": "Long-tail",
+    "serp_analysis": {
+      "error": "Google detected automated requests. Please try again later.",
+      "status": "blocked"
+    }
+  },
+  "top shopping websites uk": {
+    "keyword": "top shopping websites uk",
+    "search_volume": 25799,
+    "competition": "Medium",
+    "competition_index": 54,
+    "cpc": 0.1,
+    "trend": "Stable",
+    "difficulty": 33,
+    "potential_traffic": 5159,
+    "parent_topic": "top",
+    "category": "shopping",
+    "opportunity_score": 92,
+    "tail_type": "Long-tail",
+    "serp_analysis": {
+      "error": "Google detected automated requests. Please try again later.",
+      "status": "blocked"
+    }
+  },
+  "top shopping websites in usa": {
+    "keyword": "top shopping websites in usa",
+    "search_volume": 20025,
+    "competition": "Medium",
+    "competition_index": 43,
+    "cpc": 5.3,
+    "trend": "Stable",
+    "difficulty": 53,
+    "potential_traffic": 4005,
+    "parent_topic": "top",
+    "category": "shopping",
+    "opportunity_score": 67,
+    "tail_type": "Long-tail",
+    "serp_analysis": {
+      "error": "Google detected automated requests. Please try again later.",
+      "status": "blocked"
+    }
+  },
+  "top shopping websites in uae": {
+    "keyword": "top shopping websites in uae",
+    "search_volume": 20025,
+    "competition": "Low",
+    "competition_index": 56,
+    "cpc": 3.9,
+    "trend": "Stable",
+    "difficulty": 39,
+    "potential_traffic": 4005,
+    "parent_topic": "top",
+    "category": "shopping",
+    "opportunity_score": 81,
+    "tail_type": "Long-tail",
+    "serp_analysis": {
+      "error": "Google detected automated requests. Please try again later.",
+      "status": "blocked"
+    }
+  },
+  "top shopping websites in germany": {
+    "keyword": "top shopping websites in germany",
+    "search_volume": 20025,
+    "competition": "Medium",
+    "competition_index": 59,
+    "cpc": 7.9,
+    "trend": "Stable",
+    "difficulty": 59,
+    "potential_traffic": 4005,
+    "parent_topic": "top",
+    "category": "shopping",
+    "opportunity_score": 61,
+    "tail_type": "Long-tail",
+    "serp_analysis": {
+      "error": "Google detected automated requests. Please try again later.",
+      "status": "blocked"
+    }
+  },
+  "top shopping websites in australia": {
+    "keyword": "top shopping websites in australia",
+    "search_volume": 20025,
+    "competition": "Low",
+    "competition_index": 58,
+    "cpc": 9.0,
+    "trend": "Stable",
+    "difficulty": 30,
+    "potential_traffic": 4005,
+    "parent_topic": "top",
+    "category": "shopping",
+    "opportunity_score": 90,
+    "tail_type": "Long-tail",
+    "serp_analysis": {
+      "error": "Google detected automated requests. Please try again later.",
+      "status": "blocked"
+    }
+  },
+  "top shopping websites in dubai": {
+    "keyword": "top shopping websites in dubai",
+    "search_volume": 20025,
+    "competition": "Low",
+    "competition_index": 55,
+    "cpc": 4.1,
+    "trend": "Stable",
+    "difficulty": 31,
+    "potential_traffic": 4005,
+    "parent_topic": "top",
+    "category": "shopping",
+    "opportunity_score": 89,
+    "tail_type": "Long-tail",
+    "serp_analysis": {
+      "error": "Google detected automated requests. Please try again later.",
+      "status": "blocked"
+    }
+  },
+  "top shopping websites for clothes": {
+    "keyword": "top shopping websites for clothes",
+    "search_volume": 20025,
+    "competition": "Medium",
+    "competition_index": 59,
+    "cpc": 9.0,
+    "trend": "Stable",
+    "difficulty": 50,
+    "potential_traffic": 4005,
+    "parent_topic": "top",
+    "category": "shopping",
+    "opportunity_score": 70,
+    "tail_type": "Long-tail",
+    "serp_analysis": {
+      "error": "Google detected automated requests. Please try again later.",
+      "status": "blocked"
+    }
+  },
+  "hyderabad weather": {
+    "keyword": "hyderabad weather",
+    "search_volume": 45000,
+    "competition": "Medium",
+    "competition_index": 64,
+    "cpc": 1.6,
+    "trend": "Stable",
+    "difficulty": 48,
+    "potential_traffic": 9000,
+    "parent_topic": "hyderabad",
+    "category": "technology",
+    "opportunity_score": 97,
+    "tail_type": "Mid-tail",
+    "serp_analysis": {
+      "error": "Google detected automated requests. Please try again later.",
+      "status": "blocked"
+    }
+  },
+  "hyderabad sindh weather": {
+    "keyword": "hyderabad sindh weather",
+    "search_volume": 22950,
+    "competition": "Medium",
+    "competition_index": 37,
+    "cpc": 8.2,
+    "trend": "Stable",
+    "difficulty": 33,
+    "potential_traffic": 4590,
+    "parent_topic": "hyderabad",
+    "category": "technology",
+    "opportunity_score": 89,
+    "tail_type": "Mid-tail",
+    "serp_analysis": {
+      "error": "Google detected automated requests. Please try again later.",
+      "status": "blocked"
+    }
+  },
+  "hydrozole cream": {
+    "keyword": "hydrozole cream",
+    "search_volume": 45000,
+    "competition": "Medium",
+    "competition_index": 82,
+    "cpc": 4.4,
+    "trend": "Stable",
+    "difficulty": 56,
+    "potential_traffic": 9000,
+    "parent_topic": "hydrozole",
+    "category": "technology",
+    "opportunity_score": 89,
+    "tail_type": "Mid-tail",
+    "serp_analysis": {
+      "error": "Google detected automated requests. Please try again later.",
+      "status": "blocked"
+    }
+  },
+  "hyundai": {
+    "keyword": "hyundai",
+    "search_volume": 45000,
+    "competition": "High",
+    "competition_index": 66,
+    "cpc": 5.4,
+    "trend": "Stable",
+    "difficulty": 46,
+    "potential_traffic": 9000,
+    "parent_topic": "",
+    "category": "technology",
+    "opportunity_score": 99,
+    "tail_type": "Short-tail",
+    "serp_analysis": {
+      "error": "Google detected automated requests. Please try again later.",
+      "status": "blocked"
+    }
+  },
+  "hyundai tucson": {
+    "keyword": "hyundai tucson",
+    "search_volume": 45000,
+    "competition": "Low",
+    "competition_index": 57,
+    "cpc": 5.4,
+    "trend": "Stable",
+    "difficulty": 56,
+    "potential_traffic": 9000,
+    "parent_topic": "hyundai",
+    "category": "technology",
+    "opportunity_score": 89,
+    "tail_type": "Mid-tail",
+    "serp_analysis": {
+      "error": "Google detected automated requests. Please try again later.",
+      "status": "blocked"
+    }
+  },
+  "hyderabad": {
+    "keyword": "hyderabad",
+    "search_volume": 45000,
+    "competition": "Medium",
+    "competition_index": 58,
+    "cpc": 3.2,
+    "trend": "Stable",
+    "difficulty": 44,
+    "potential_traffic": 9000,
+    "parent_topic": "",
+    "category": "technology",
+    "opportunity_score": 101,
+    "tail_type": "Short-tail",
+    "serp_analysis": {
+      "error": "Google detected automated requests. Please try again later.",
+      "status": "blocked"
+    }
+  },
+  "hyundai tucson hybrid": {
+    "keyword": "hyundai tucson hybrid",
+    "search_volume": 22950,
+    "competition": "Low",
+    "competition_index": 32,
+    "cpc": 2.8,
+    "trend": "Stable",
+    "difficulty": 59,
+    "potential_traffic": 4590,
+    "parent_topic": "hyundai",
+    "category": "technology",
+    "opportunity_score": 63,
+    "tail_type": "Mid-tail",
+    "serp_analysis": {
+      "error": "Google detected automated requests. Please try again later.",
+      "status": "blocked"
+    }
+  },
+  "hydrocortisone cream": {
+    "keyword": "hydrocortisone cream",
+    "search_volume": 45000,
+    "competition": "Medium",
+    "competition_index": 82,
+    "cpc": 8.4,
+    "trend": "Stable",
+    "difficulty": 56,
+    "potential_traffic": 9000,
+    "parent_topic": "hydrocortisone",
+    "category": "technology",
+    "opportunity_score": 89,
+    "tail_type": "Mid-tail",
+    "serp_analysis": {
+      "error": "Google detected automated requests. Please try again later.",
+      "status": "blocked"
+    }
+  },
+  "hydrozole cream uses": {
+    "keyword": "hydrozole cream uses",
+    "search_volume": 22950,
+    "competition": "Low",
+    "competition_index": 40,
+    "cpc": 2.4,
+    "trend": "Stable",
+    "difficulty": 45,
+    "potential_traffic": 4590,
+    "parent_topic": "hydrozole",
+    "category": "technology",
+    "opportunity_score": 77,
+    "tail_type": "Mid-tail",
+    "serp_analysis": {
+      "error": "Google detected automated requests. Please try again later.",
+      "status": "blocked"
+    }
+  },
+  "hydra facial": {
+    "keyword": "hydra facial",
+    "search_volume": 45000,
+    "competition": "Low",
+    "competition_index": 78,
+    "cpc": 7.6,
+    "trend": "Stable",
+    "difficulty": 48,
+    "potential_traffic": 9000,
+    "parent_topic": "hydra",
+    "category": "technology",
+    "opportunity_score": 97,
+    "tail_type": "Mid-tail",
+    "serp_analysis": {
+      "error": "Google detected automated requests. Please try again later.",
+      "status": "blocked"
+    }
+  },
+  "imran khan photo": {
+    "keyword": "imran khan photo",
+    "search_volume": 22950,
+    "competition": "Medium",
+    "competition_index": 39,
+    "cpc": 7.1,
+    "trend": "Stable",
+    "difficulty": 42,
+    "potential_traffic": 4590,
+    "parent_topic": "imran",
+    "category": "technology",
+    "opportunity_score": 80,
+    "tail_type": "Mid-tail",
+    "serp_analysis": {
+      "competitors": 0,
+      "title_match_count": 0,
+      "top_domains": [],
+      "trust_score": 0,
+      "meta_data": {
+        "meta_description": [],
+        "h1": [],
+        "h2": [],
+        "h3": [],
+        "h4": []
+      }
+    }
+  }
+}
